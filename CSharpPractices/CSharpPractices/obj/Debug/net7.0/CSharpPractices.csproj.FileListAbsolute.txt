@@ -1,0 +1,15 @@
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\bin\Debug\net7.0\CSharpPractices.exe
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\bin\Debug\net7.0\CSharpPractices.deps.json
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\bin\Debug\net7.0\CSharpPractices.runtimeconfig.json
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\bin\Debug\net7.0\CSharpPractices.dll
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\bin\Debug\net7.0\CSharpPractices.pdb
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.AssemblyInfoInputs.cache
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.AssemblyInfo.cs
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.csproj.CoreCompileInputs.cache
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.dll
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\refint\CSharpPractices.dll
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.pdb
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.genruntimeconfig.cache
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\ref\CSharpPractices.dll
+C:\E\PROJECTS\WEB\002_GitHub\eldhosekjoy_outlook\csharppractices\CSharpPractices\CSharpPractices\obj\Debug\net7.0\CSharpPractices.sourcelink.json
